@@ -1,3 +1,5 @@
+第一次传的时候忘传war包了，之后用压缩包的方式传上来的，有两个压缩包，因为github网页上传只允许25MB一下的文件，所以我就分成了两个压缩包传  
+
 基础功能：  
 1.登陆  localhost:8087/user/login;（String username,String password）  
 2.注册  localhost:8087/user/register;（String username,String password）  
